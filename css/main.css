@@ -2228,7 +2228,7 @@ header .location {
 }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 380px) {
     /*main 320*/
 header .logo {
     left: 5%; 
