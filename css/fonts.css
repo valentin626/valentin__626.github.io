@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'Bosch_regular';
+  src: url('../fonts/boschsans-regular.eot');
+  src: local('☺'), url('../fonts/boschsans-regular.woff') format('woff'), url('../fonts/boschsans-regular.ttf') format('truetype'), url('../fonts/boschsans-regular.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Bosch_black';
+  src: url('../fonts/boschsans-black.eot');
+  src: local('☺'), url('../fonts/boschsans-black.woff') format('woff'), url('../fonts/boschsans-black.ttf') format('truetype'), url('../fonts/boschsans-black.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Bosch_bold';
+  src: url('../fonts/boschsans-bold.eot');
+  src: local('☺'), url('../fonts/boschsans-bold.woff') format('woff'), url('../fonts/boschsans-bold.ttf') format('truetype'), url('../fonts/boschsans-bold.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Bosch_cond_bold';
+  src: url('../fonts/BoschSansCond-Bold.eot');
+  src: local('☺'), url('../fonts/BoschSansCond-Bold.woff') format('woff'), url('../fonts/BoschSansCond-Bold.ttf') format('truetype'), url('../fonts/BoschSansCond-Bold.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'fontello';
+  src: url('../fonts/fontello.eot?75839339');
+  src: url('../fonts/fontello.eot?75839339#iefix') format('embedded-opentype'),
+       url('../fonts/fontello.woff2?75839339') format('woff2'),
+       url('../fonts/fontello.woff?75839339') format('woff'),
+       url('../fonts/fontello.ttf?75839339') format('truetype'),
+       url('../fonts/fontello.svg?75839339#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+ 
+ [class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1em;
+  margin-left: .2em;
+ 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+}
+ 
